@@ -1,0 +1,381 @@
+order,family,scientific name,actividad,horario,IUCN_red_list_category,Confidence
+Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo jamaicensis,diurna,900 - 1700,LC,0.6468666666666666
+Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo plagiatus,diurna,700 - 1700,LC,0.7404575757575758
+Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo platypterus,diurna,600 - 1500,LC,0.6528181818181819
+Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo swainsoni,diurna,800 - 800,LC,0.6145
+Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteogallus anthracinus,diurna,900 - 900,LC,0.7374
+Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Elanus leucurus,diurna,600 - 1700,LC,0.6376857142857143
+Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Ictinia mississippiensis,diurna,800 - 800,LC,0.5662
+Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Rupornis magnirostris,diurna,550 - 1720,LC,0.6298347826086956
+Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Spizaetus tyrannus,diurna,600 - 1720,LC,0.6341933333333334
+Accipitriformes,Pandionidae (Osprey),Pandion haliaetus,diurna,600 - 1800,EN,0.6664708333333333
+Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Cairina moschata,diurna,1800 - 1800,LC,0.6294
+Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Dendrocygna autumnalis,diurna,600 - 1800,LC,0.7815472222222222
+Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Dendrocygna autumnalis,nocturna,400 - 2200,LC,0.8193710526315789
+Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Dendrocygna bicolor,diurna,900 - 1700,LC,0.7279500000000001
+Apodiformes,Apodidae (Swifts),Chaetura vauxi,diurna,800 - 1800,LC,0.675412
+Apodiformes,Apodidae (Swifts),Streptoprocne zonaris,diurna,800 - 1500,LC,0.7627967741935484
+Apodiformes,Trochilidae (Hummingbirds),Amazilia rutila,diurna,550 - 1800,LC,0.6744500000000001
+Apodiformes,Trochilidae (Hummingbirds),Amazilia tzacatl,diurna,550 - 1800,LC,0.7508541666666667
+Apodiformes,Trochilidae (Hummingbirds),Archilochus colubris,diurna,900 - 900,LC,0.5174
+Apodiformes,Trochilidae (Hummingbirds),Basilinna leucotis,diurna,600 - 1700,LC,0.6154666666666667
+Apodiformes,Trochilidae (Hummingbirds),Campylopterus hemileucurus,diurna,1000 - 1300,LC,0.569925
+Apodiformes,Trochilidae (Hummingbirds),Chlorestes candida,diurna,700 - 700,LC,0.5206
+Apodiformes,Trochilidae (Hummingbirds),Colibri thalassinus,diurna,1400 - 1700,LC,0.7179
+Apodiformes,Trochilidae (Hummingbirds),Heliomaster constantii,diurna,600 - 1700,LC,0.67666
+Apodiformes,Trochilidae (Hummingbirds),Heliomaster constantii,nocturna,500 - 500,LC,0.7430333333333333
+Apodiformes,Trochilidae (Hummingbirds),Phaethornis longirostris,diurna,1300 - 1300,LC,0.5483
+Apodiformes,Trochilidae (Hummingbirds),Phaethornis striigularis,diurna,1000 - 1000,LC,0.59175
+Apodiformes,Trochilidae (Hummingbirds),Saucerottia beryllina,diurna,600 - 1800,LC,0.610705
+Apodiformes,Trochilidae (Hummingbirds),Saucerottia beryllina,nocturna,500 - 2000,LC,0.5826333333333333
+Apodiformes,Trochilidae (Hummingbirds),Saucerottia cyanocephala,diurna,700 - 1300,LC,0.6319
+Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Chordeiles acutipennis,diurna,700 - 1600,LC,0.6549555555555556
+Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Chordeiles acutipennis,nocturna,530 - 530,LC,0.6256
+Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Nyctidromus albicollis,diurna,550 - 1800,LC,0.6533164179104477
+Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Nyctidromus albicollis,nocturna,0 - 2300,LC,0.7501671014492753
+Cathartiformes,Cathartidae (New World Vultures),Coragyps atratus,diurna,1200 - 1500,LC,0.6016666666666667
+Charadriiformes,Charadriidae (Plovers and Lapwings),Charadrius semipalmatus,diurna,800 - 1700,LC,0.6778666666666666
+Charadriiformes,Charadriidae (Plovers and Lapwings),Charadrius vociferus,diurna,800 - 1700,NT,0.6138222222222223
+Charadriiformes,Charadriidae (Plovers and Lapwings),Pluvialis squatarola,diurna,1000 - 1700,VU,0.5793
+Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Gelochelidon nilotica,diurna,1100 - 1700,LC,0.6967333333333334
+Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Hydroprogne caspia,diurna,900 - 1600,LC,0.6772
+Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna hirundo,diurna,1300 - 1300,LC,0.6181
+Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sternula antillarum,diurna,1200 - 1200,LC,0.6589
+Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Thalasseus maximus,diurna,800 - 800,LC,0.5303
+Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Thalasseus maximus,nocturna,500 - 500,LC,0.6112
+Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Thalasseus sandvicensis,diurna,900 - 1700,LC,0.6364
+Charadriiformes,Scolopacidae (Sandpipers and Allies),Actitis macularius,diurna,700 - 1600,LC,0.6113636363636363
+Charadriiformes,Scolopacidae (Sandpipers and Allies),Arenaria interpres,diurna,800 - 1700,NT,0.5946666666666667
+Charadriiformes,Scolopacidae (Sandpipers and Allies),Arenaria interpres,nocturna,500 - 500,NT,0.5355
+Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris mauri,diurna,1000 - 1000,LC,0.5388
+Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris minutilla,diurna,1700 - 1700,NT,0.7198
+Charadriiformes,Scolopacidae (Sandpipers and Allies),Numenius phaeopus,diurna,600 - 1700,LC,0.6490999999999999
+Charadriiformes,Scolopacidae (Sandpipers and Allies),Numenius phaeopus,nocturna,500 - 500,LC,0.659
+Charadriiformes,Scolopacidae (Sandpipers and Allies),Tringa flavipes,diurna,1200 - 1200,VU,0.5166
+Charadriiformes,Scolopacidae (Sandpipers and Allies),Tringa melanoleuca,diurna,600 - 1700,NT,0.59622
+Charadriiformes,Scolopacidae (Sandpipers and Allies),Tringa semipalmata,diurna,900 - 1613,LC,0.59335
+Charadriiformes,Scolopacidae (Sandpipers and Allies),Tringa solitaria,diurna,1200 - 1200,LC,0.5225
+Ciconiiformes,Ciconiidae (Storks),Mycteria americana,diurna,1500 - 1500,LC,0.6058
+Columbiformes,Columbidae (Pigeons and Doves),Claravis pretiosa,diurna,800 - 1800,LC,0.648325
+Columbiformes,Columbidae (Pigeons and Doves),Claravis pretiosa,nocturna,500 - 500,LC,0.7168
+Columbiformes,Columbidae (Pigeons and Doves),Columba livia,diurna,700 - 1600,LC,0.6845
+Columbiformes,Columbidae (Pigeons and Doves),Columbina inca,diurna,550 - 1800,LC,0.7421720175091503
+Columbiformes,Columbidae (Pigeons and Doves),Columbina inca,nocturna,530 - 530,LC,0.6117764705882353
+Columbiformes,Columbidae (Pigeons and Doves),Columbina passerina,diurna,550 - 1800,LC,0.760392226755422
+Columbiformes,Columbidae (Pigeons and Doves),Columbina passerina,nocturna,530 - 530,LC,0.6736500000000001
+Columbiformes,Columbidae (Pigeons and Doves),Columbina talpacoti,diurna,600 - 1800,LC,0.5993692307692308
+Columbiformes,Columbidae (Pigeons and Doves),Geotrygon montana,diurna,550 - 1800,LC,0.6173904109589041
+Columbiformes,Columbidae (Pigeons and Doves),Geotrygon montana,nocturna,200 - 2200,LC,0.661525
+Columbiformes,Columbidae (Pigeons and Doves),Leptotila verreauxi,diurna,550 - 1800,LC,0.6964609245712915
+Columbiformes,Columbidae (Pigeons and Doves),Leptotila verreauxi,nocturna,500 - 530,LC,0.6820575757575758
+Columbiformes,Columbidae (Pigeons and Doves),Patagioenas cayennensis,diurna,810 - 1000,LC,0.61602
+Columbiformes,Columbidae (Pigeons and Doves),Patagioenas fasciata,diurna,1300 - 1300,LC,0.6388
+Columbiformes,Columbidae (Pigeons and Doves),Patagioenas flavirostris,diurna,550 - 1700,LC,0.6037487804878049
+Columbiformes,Columbidae (Pigeons and Doves),Patagioenas flavirostris,nocturna,500 - 530,LC,0.6131535971223022
+Columbiformes,Columbidae (Pigeons and Doves),Patagioenas nigrirostris,diurna,800 - 1740,LC,0.5561428571428572
+Columbiformes,Columbidae (Pigeons and Doves),Patagioenas nigrirostris,nocturna,400 - 400,LC,0.6948
+Columbiformes,Columbidae (Pigeons and Doves),Zenaida asiatica,diurna,600 - 1700,LC,0.7060421052631579
+Columbiformes,Columbidae (Pigeons and Doves),Zenaida asiatica,nocturna,500 - 500,LC,0.6092
+Coraciiformes,Alcedinidae (Kingfishers),Chloroceryle americana,diurna,650 - 650,LC,0.62245
+Coraciiformes,Alcedinidae (Kingfishers),Megaceryle alcyon,diurna,600 - 1700,LC,0.6866522727272727
+Coraciiformes,Alcedinidae (Kingfishers),Megaceryle torquata,diurna,600 - 1700,LC,0.66829
+Coraciiformes,Momotidae (Motmots),Aspatha gularis,diurna,1100 - 1800,LC,0.7588
+Coraciiformes,Momotidae (Motmots),Eumomota superciliosa,diurna,550 - 1800,LC,0.7400638101109741
+Coraciiformes,Momotidae (Motmots),Eumomota superciliosa,nocturna,500 - 530,LC,0.7429369402985074
+Coraciiformes,Momotidae (Motmots),Momotus lessonii,diurna,550 - 1800,LC,0.7425767911818738
+Coraciiformes,Momotidae (Motmots),Momotus lessonii,nocturna,0 - 2300,LC,0.7166552536231884
+Coraciiformes,Momotidae (Motmots),Momotus mexicanus,diurna,600 - 1800,LC,0.6396105263157894
+Coraciiformes,Momotidae (Motmots),Momotus mexicanus,nocturna,500 - 500,LC,0.7091
+Cuculiformes,Cuculidae (Cuckoos),Coccyzus americanus,diurna,600 - 1800,LC,0.7400215962441314
+Cuculiformes,Cuculidae (Cuckoos),Coccyzus americanus,nocturna,0 - 2300,LC,0.6623508620689655
+Cuculiformes,Cuculidae (Cuckoos),Coccyzus minor,diurna,550 - 1720,LC,0.5922637168141592
+Cuculiformes,Cuculidae (Cuckoos),Coccyzus minor,nocturna,500 - 530,LC,0.5329166666666666
+Cuculiformes,Cuculidae (Cuckoos),Crotophaga sulcirostris,diurna,550 - 1800,LC,0.8392084042845372
+Cuculiformes,Cuculidae (Cuckoos),Crotophaga sulcirostris,nocturna,530 - 530,LC,0.74565
+Cuculiformes,Cuculidae (Cuckoos),Dromococcyx phasianellus,diurna,800 - 1740,LC,0.7185666666666667
+Cuculiformes,Cuculidae (Cuckoos),Morococcyx erythropygus,diurna,550 - 1800,LC,0.7898466951145171
+Cuculiformes,Cuculidae (Cuckoos),Morococcyx erythropygus,nocturna,500 - 530,LC,0.7266347826086957
+Cuculiformes,Cuculidae (Cuckoos),Piaya cayana,diurna,600 - 1800,LC,0.7769853115727002
+Cuculiformes,Cuculidae (Cuckoos),Tapera naevia,diurna,550 - 1700,LC,0.6378259259259259
+Falconiformes,Falconidae (Falcons and Caracaras),Caracara plancus,diurna,1200 - 1200,LC,0.5892
+Falconiformes,Falconidae (Falcons and Caracaras),Falco peregrinus,diurna,900 - 1000,LC,0.6572999999999999
+Falconiformes,Falconidae (Falcons and Caracaras),Falco sparverius,diurna,700 - 1400,LC,0.7745333333333333
+Falconiformes,Falconidae (Falcons and Caracaras),Herpetotheres cachinnans,diurna,600 - 1800,LC,0.8326839563862928
+Falconiformes,Falconidae (Falcons and Caracaras),Herpetotheres cachinnans,nocturna,0 - 2200,LC,0.7841468609865471
+Falconiformes,Falconidae (Falcons and Caracaras),Micrastur ruficollis,diurna,800 - 1700,LC,0.6329125
+Falconiformes,Falconidae (Falcons and Caracaras),Micrastur semitorquatus,diurna,600 - 1800,LC,0.7592470588235294
+Falconiformes,Falconidae (Falcons and Caracaras),Micrastur semitorquatus,nocturna,200 - 2100,LC,0.7958548936170213
+Galbuliformes,Galbulidae (Jacamars),Galbula ruficauda,diurna,750 - 1220,LC,0.67385
+Galliformes,"Cracidae (Guans, Chachalacas, and Curassows)",Ortalis leucogastra,diurna,550 - 1700,LC,0.646788785046729
+Galliformes,"Cracidae (Guans, Chachalacas, and Curassows)",Ortalis leucogastra,nocturna,530 - 530,LC,0.6640666666666667
+Galliformes,"Cracidae (Guans, Chachalacas, and Curassows)",Ortalis vetula,diurna,600 - 1800,LC,0.81799
+Galliformes,"Cracidae (Guans, Chachalacas, and Curassows)",Ortalis vetula,nocturna,500 - 530,LC,0.7522666666666668
+Galliformes,"Cracidae (Guans, Chachalacas, and Curassows)",Penelope purpurascens,diurna,550 - 1800,NT,0.6411917525773195
+Galliformes,"Cracidae (Guans, Chachalacas, and Curassows)",Penelope purpurascens,nocturna,200 - 2200,NT,0.6031166666666666
+Galliformes,"Cracidae (Guans, Chachalacas, and Curassows)",Penelopina nigra,diurna,630 - 1300,VU,0.5891249999999999
+Galliformes,"Cracidae (Guans, Chachalacas, and Curassows)",Penelopina nigra,nocturna,2100 - 2100,VU,0.5261
+Galliformes,Odontophoridae (New World Quail),Colinus cristatus,diurna,600 - 1800,LC,0.7751909356466319
+Galliformes,Odontophoridae (New World Quail),Colinus cristatus,nocturna,500 - 500,LC,0.7648027027027028
+Galliformes,Odontophoridae (New World Quail),Dactylortyx thoracicus,diurna,600 - 1740,LC,0.6381727272727273
+Galliformes,Odontophoridae (New World Quail),Dactylortyx thoracicus,nocturna,500 - 500,LC,0.593
+Galliformes,Odontophoridae (New World Quail),Dendrortyx leucophrys,diurna,600 - 1640,LC,0.6418090909090909
+Galliformes,Odontophoridae (New World Quail),Dendrortyx leucophrys,nocturna,530 - 530,LC,0.59885
+Gruiformes,Aramidae (Limpkin),Aramus guarauna,diurna,550 - 1800,LC,0.8489848813559322
+Gruiformes,Aramidae (Limpkin),Aramus guarauna,nocturna,500 - 530,LC,0.8770204819277108
+Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Aramides albiventris,diurna,600 - 1600,LC,0.6755999999999999
+Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Aramides albiventris,nocturna,500 - 500,LC,0.59935
+Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Fulica americana,diurna,1000 - 1600,LC,0.6279
+Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Gallinula galeata,diurna,1100 - 1100,LC,0.68045
+Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Laterallus ruber,diurna,830 - 1240,LC,0.6135
+Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Laterallus ruber,nocturna,530 - 530,LC,0.63995
+Nyctibiiformes,Nyctibiidae (Potoos),Nyctibius jamaicensis,diurna,1700 - 1800,LC,0.6172744444444445
+Nyctibiiformes,Nyctibiidae (Potoos),Nyctibius jamaicensis,nocturna,0 - 2300,LC,0.6282493936302844
+Passeriformes,Aegithalidae (Long-tailed Tits),Psaltriparus minimus,diurna,600 - 1600,LC,0.5968714285714285
+Passeriformes,Cardinalidae (Cardinals and Allies),Cardinalis cardinalis,diurna,600 - 1700,LC,0.6214057971014493
+Passeriformes,Cardinalidae (Cardinals and Allies),Cardinalis cardinalis,nocturna,500 - 500,LC,0.5904
+Passeriformes,Cardinalidae (Cardinals and Allies),Habia rubica,diurna,1100 - 1800,LC,0.5664
+Passeriformes,Cardinalidae (Cardinals and Allies),Habia rubica,nocturna,500 - 500,LC,0.6622
+Passeriformes,Cardinalidae (Cardinals and Allies),Passerina caerulea,diurna,600 - 1800,LC,0.749091004784689
+Passeriformes,Cardinalidae (Cardinals and Allies),Passerina caerulea,nocturna,500 - 500,LC,0.6586341463414634
+Passeriformes,Cardinalidae (Cardinals and Allies),Passerina ciris,diurna,1000 - 1700,LC,0.6076
+Passeriformes,Cardinalidae (Cardinals and Allies),Passerina cyanea,diurna,1100 - 1400,LC,0.6797
+Passeriformes,Cardinalidae (Cardinals and Allies),Piranga bidentata,diurna,800 - 1600,LC,0.64444
+Passeriformes,Cardinalidae (Cardinals and Allies),Piranga flava,diurna,900 - 1700,LC,0.60379
+Passeriformes,Cardinalidae (Cardinals and Allies),Piranga flava,nocturna,500 - 500,LC,0.6905
+Passeriformes,Cardinalidae (Cardinals and Allies),Piranga leucoptera,diurna,1200 - 1300,LC,0.64225
+Passeriformes,Cardinalidae (Cardinals and Allies),Piranga ludoviciana,diurna,700 - 1700,LC,0.6811823529411765
+Passeriformes,Cardinalidae (Cardinals and Allies),Piranga rubra,diurna,600 - 600,LC,0.8611
+Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Aphelocoma unicolor,diurna,1300 - 1700,LC,0.557125
+Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanocitta stelleri,diurna,600 - 1700,LC,0.6042666666666666
+Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanocorax formosus,diurna,600 - 1800,LC,0.814757016509434
+Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanocorax formosus,nocturna,500 - 500,LC,0.5896
+Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanocorax melanocyaneus,diurna,630 - 1720,LC,0.6551589743589744
+Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanocorax morio,diurna,600 - 1720,LC,0.6563409090909091
+Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanocorax morio,nocturna,530 - 530,LC,0.5982
+Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanocorax yncas,diurna,1000 - 1700,LC,0.6591333333333333
+Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanocorax yncas,nocturna,1900 - 2000,LC,0.6959500000000001
+Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanolyca pumilo,diurna,600 - 950,LC,0.5647666666666666
+Passeriformes,Formicariidae (Antthrushes),Formicarius moniliger,diurna,600 - 1300,LC,0.6657
+Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Chlorophonia occipitalis,diurna,800 - 1300,LC,0.57744
+Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Euphonia affinis,diurna,550 - 1800,LC,0.7832443006436431
+Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Euphonia affinis,nocturna,530 - 530,LC,0.7451
+Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Euphonia hirundinacea,diurna,600 - 1600,LC,0.6927236842105263
+Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Loxia curvirostra,diurna,1400 - 1400,LC,0.6197
+Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Spinus psaltria,diurna,600 - 1700,LC,0.6289315384615385
+Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),Clibanornis rubiginosus,diurna,550 - 1800,LC,0.6648753731343283
+Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),Clibanornis rubiginosus,nocturna,500 - 500,LC,0.6347333333333333
+Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),Dendrocolaptes sanctithomae,diurna,600 - 1800,LC,0.6336868421052632
+Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),Dendrocolaptes sanctithomae,nocturna,500 - 500,LC,0.6611666666666667
+Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),Lepidocolaptes affinis,diurna,800 - 1600,LC,0.7001509433962264
+Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),Lepidocolaptes souleyetii,diurna,1000 - 1000,LC,0.61055
+Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),Sittasomus griseicapillus,diurna,600 - 700,LC,0.616175
+Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),Xiphorhynchus flavigaster,diurna,600 - 1800,LC,0.7723275862068966
+Passeriformes,Hirundinidae (Swallows),Hirundo rustica,diurna,700 - 1740,LC,0.6143857142857143
+Passeriformes,Hirundinidae (Swallows),Petrochelidon pyrrhonota,diurna,800 - 1600,LC,0.6525666666666666
+Passeriformes,Hirundinidae (Swallows),Progne chalybea,diurna,700 - 1700,LC,0.7173107142857142
+Passeriformes,Hirundinidae (Swallows),Progne subis,diurna,700 - 1500,LC,0.678675
+Passeriformes,Hirundinidae (Swallows),Riparia riparia,diurna,1200 - 1400,LC,0.58985
+Passeriformes,Hirundinidae (Swallows),Stelgidopteryx serripennis,diurna,600 - 1500,LC,0.6793399999999999
+Passeriformes,Icteridae (Troupials and Allies),Agelaius phoeniceus,diurna,600 - 1100,LC,0.6072555555555555
+Passeriformes,Icteridae (Troupials and Allies),Amblycercus holosericeus,diurna,700 - 1700,LC,0.5912142857142857
+Passeriformes,Icteridae (Troupials and Allies),Cassiculus melanicterus,diurna,600 - 900,LC,0.5727222222222221
+Passeriformes,Icteridae (Troupials and Allies),Dives dives,diurna,550 - 1800,LC,0.7196503136200716
+Passeriformes,Icteridae (Troupials and Allies),Dives dives,nocturna,500 - 530,LC,0.6392857142857142
+Passeriformes,Icteridae (Troupials and Allies),Icterus chrysater,diurna,550 - 1800,LC,0.748822646103896
+Passeriformes,Icteridae (Troupials and Allies),Icterus chrysater,nocturna,500 - 500,LC,0.6986122330097088
+Passeriformes,Icteridae (Troupials and Allies),Icterus galbula,diurna,600 - 1700,LC,0.6590573170731707
+Passeriformes,Icteridae (Troupials and Allies),Icterus galbula,nocturna,530 - 530,LC,0.5453
+Passeriformes,Icteridae (Troupials and Allies),Icterus gularis,diurna,550 - 1800,LC,0.6847167823343849
+Passeriformes,Icteridae (Troupials and Allies),Icterus gularis,nocturna,500 - 530,LC,0.66268
+Passeriformes,Icteridae (Troupials and Allies),Icterus mesomelas,diurna,600 - 1740,LC,0.6489263157894737
+Passeriformes,Icteridae (Troupials and Allies),Icterus mesomelas,nocturna,530 - 530,LC,0.5077
+Passeriformes,Icteridae (Troupials and Allies),Icterus pectoralis,diurna,600 - 1800,LC,0.6918630136986301
+Passeriformes,Icteridae (Troupials and Allies),Icterus pectoralis,nocturna,500 - 530,LC,0.6401701149425287
+Passeriformes,Icteridae (Troupials and Allies),Icterus pustulatus,diurna,600 - 1800,LC,0.6937121147715196
+Passeriformes,Icteridae (Troupials and Allies),Icterus pustulatus,nocturna,500 - 500,LC,0.62366
+Passeriformes,Icteridae (Troupials and Allies),Icterus spurius,diurna,600 - 1800,LC,0.73426875
+Passeriformes,Icteridae (Troupials and Allies),Icterus wagleri,diurna,1100 - 1100,LC,0.7523
+Passeriformes,Icteridae (Troupials and Allies),Psarocolius montezuma,diurna,800 - 1800,LC,0.6379875
+Passeriformes,Icteridae (Troupials and Allies),Psarocolius montezuma,nocturna,500 - 500,LC,0.6234
+Passeriformes,Icteridae (Troupials and Allies),Psarocolius wagleri,diurna,600 - 1800,LC,0.6335412213740458
+Passeriformes,Icteridae (Troupials and Allies),Psarocolius wagleri,nocturna,500 - 2300,LC,0.6147499999999999
+Passeriformes,Icteridae (Troupials and Allies),Quiscalus mexicanus,diurna,600 - 1800,LC,0.6540130434782608
+Passeriformes,Icteridae (Troupials and Allies),Sturnella magna,diurna,900 - 1700,NT,0.6230818181818182
+Passeriformes,Mimidae (Mockingbirds and Thrashers),Dumetella carolinensis,diurna,800 - 1300,LC,0.73825
+Passeriformes,Mimidae (Mockingbirds and Thrashers),Melanotis hypoleucus,diurna,600 - 1740,LC,0.6006541666666666
+Passeriformes,Mimidae (Mockingbirds and Thrashers),Melanotis hypoleucus,nocturna,500 - 530,LC,0.5746666666666668
+Passeriformes,Mimidae (Mockingbirds and Thrashers),Mimus gilvus,diurna,700 - 1620,LC,0.618
+Passeriformes,Parulidae (New World Warblers),Basileuterus culicivorus,diurna,600 - 1700,LC,0.5919111111111112
+Passeriformes,Parulidae (New World Warblers),Basileuterus rufifrons,diurna,550 - 1800,LC,0.6564934065934066
+Passeriformes,Parulidae (New World Warblers),Basileuterus rufifrons,nocturna,100 - 500,LC,0.5911388888888889
+Passeriformes,Parulidae (New World Warblers),Geothlypis formosa,diurna,700 - 700,LC,0.8377749999999999
+Passeriformes,Parulidae (New World Warblers),Geothlypis poliocephala,diurna,700 - 1000,LC,0.6036375
+Passeriformes,Parulidae (New World Warblers),Geothlypis tolmiei,diurna,1000 - 1000,LC,0.5536
+Passeriformes,Parulidae (New World Warblers),Helmitheros vermivorum,diurna,800 - 1200,LC,0.8639666666666667
+Passeriformes,Parulidae (New World Warblers),Mniotilta varia,diurna,900 - 1000,LC,0.5875333333333334
+Passeriformes,Parulidae (New World Warblers),Myioborus miniatus,diurna,600 - 900,LC,0.6982999999999999
+Passeriformes,Parulidae (New World Warblers),Myioborus pictus,diurna,1300 - 1800,LC,0.53005
+Passeriformes,Parulidae (New World Warblers),Oreothlypis superciliosa,diurna,800 - 1700,LC,0.6497756097560975
+Passeriformes,Parulidae (New World Warblers),Parkesia motacilla,diurna,600 - 1800,LC,0.753808695652174
+Passeriformes,Parulidae (New World Warblers),Parkesia noveboracensis,diurna,1100 - 1100,LC,0.6747
+Passeriformes,Parulidae (New World Warblers),Protonotaria citrea,diurna,700 - 700,LC,0.5623
+Passeriformes,Parulidae (New World Warblers),Seiurus aurocapilla,diurna,900 - 1700,LC,0.6035363636363636
+Passeriformes,Parulidae (New World Warblers),Setophaga petechia,diurna,700 - 1600,LC,0.6279363636363636
+Passeriformes,Parulidae (New World Warblers),Setophaga pitiayumi,diurna,700 - 1300,LC,0.7234
+Passeriformes,Parulidae (New World Warblers),Setophaga townsendi,diurna,1400 - 1700,LC,0.5732
+Passeriformes,Parulidae (New World Warblers),Setophaga townsendi,nocturna,2000 - 2000,LC,0.5501
+Passeriformes,Parulidae (New World Warblers),Setophaga virens,diurna,1000 - 1400,LC,0.6313
+Passeriformes,Passerellidae (New World Sparrows),Aimophila rufescens,diurna,900 - 1000,LC,0.5745
+Passeriformes,Passerellidae (New World Sparrows),Ammodramus savannarum,diurna,800 - 900,LC,0.6609444444444444
+Passeriformes,Passerellidae (New World Sparrows),Arremon brunneinucha,diurna,800 - 1800,LC,0.6144272727272727
+Passeriformes,Passerellidae (New World Sparrows),Arremon brunneinucha,nocturna,300 - 500,LC,0.5729599999999999
+Passeriformes,Passerellidae (New World Sparrows),Arremonops chloronotus,diurna,550 - 1300,LC,0.60785
+Passeriformes,Passerellidae (New World Sparrows),Atlapetes albinucha,diurna,1000 - 1000,LC,0.5186
+Passeriformes,Passerellidae (New World Sparrows),Chlorospingus flavopectus,diurna,1100 - 1200,LC,0.59485
+Passeriformes,Passerellidae (New World Sparrows),Melozone biarcuata,diurna,1700 - 1700,LC,0.6269
+Passeriformes,Passerellidae (New World Sparrows),Melozone leucotis,diurna,600 - 1800,LC,0.6630957647058824
+Passeriformes,Passerellidae (New World Sparrows),Melozone leucotis,nocturna,500 - 1900,LC,0.6822333333333334
+Passeriformes,Passerellidae (New World Sparrows),Peucaea ruficauda,diurna,600 - 1800,LC,0.7955817486654162
+Passeriformes,Passerellidae (New World Sparrows),Peucaea ruficauda,nocturna,500 - 500,LC,0.698685294117647
+Passeriformes,Passerellidae (New World Sparrows),Pipilo maculatus,diurna,900 - 1800,LC,0.5532199999999999
+Passeriformes,Passeridae (Old World Sparrows),Passer domesticus,diurna,600 - 1700,LC,0.6063736842105264
+Passeriformes,Passeridae (Old World Sparrows),Passer domesticus,nocturna,500 - 500,LC,0.8607
+Passeriformes,Peucedramidae (Olive Warbler),Peucedramus taeniatus,diurna,900 - 900,LC,0.6371
+Passeriformes,Pipridae (Manakins),Ceratopipra mentalis,diurna,1100 - 1300,LC,0.7042
+Passeriformes,Pipridae (Manakins),Chiroxiphia linearis,diurna,550 - 1800,LC,0.643303345724907
+Passeriformes,Pipridae (Manakins),Chiroxiphia linearis,nocturna,500 - 500,LC,0.6730777777777779
+Passeriformes,Pipridae (Manakins),Manacus candei,diurna,700 - 1620,LC,0.60415
+Passeriformes,Pipridae (Manakins),Manacus candei,nocturna,530 - 530,LC,0.61635
+Passeriformes,Polioptilidae (Gnatcatchers),Polioptila albiloris,diurna,600 - 1800,LC,0.7505931796502384
+Passeriformes,Polioptilidae (Gnatcatchers),Polioptila albiloris,nocturna,530 - 530,LC,0.5339
+Passeriformes,Polioptilidae (Gnatcatchers),Ramphocaenus melanurus,diurna,1300 - 1300,LC,0.7277
+Passeriformes,Ptiliogonatidae (Silky-flycatchers),Ptiliogonys cinereus,diurna,800 - 930,LC,0.6467
+Passeriformes,Thamnophilidae (Typical Antbirds),Cercomacroides tyrannina,diurna,1200 - 1200,LC,0.8518
+Passeriformes,Thamnophilidae (Typical Antbirds),Thamnophilus doliatus,diurna,600 - 1740,LC,0.6100399999999999
+Passeriformes,Thraupidae (Tanagers and Allies),Cyanerpes cyaneus,diurna,900 - 1800,LC,0.69785
+Passeriformes,Thraupidae (Tanagers and Allies),Diglossa baritula,diurna,1600 - 1600,LC,0.67295
+Passeriformes,Thraupidae (Tanagers and Allies),Saltator atriceps,diurna,550 - 1800,LC,0.8035629171117954
+Passeriformes,Thraupidae (Tanagers and Allies),Saltator atriceps,nocturna,500 - 530,LC,0.7654458503401361
+Passeriformes,Thraupidae (Tanagers and Allies),Saltator grandis,diurna,600 - 1800,LC,0.6648639442231076
+Passeriformes,Thraupidae (Tanagers and Allies),Saltator grandis,nocturna,500 - 500,LC,0.60256
+Passeriformes,Thraupidae (Tanagers and Allies),Saltator maximus,diurna,800 - 1800,LC,0.6405201550387597
+Passeriformes,Thraupidae (Tanagers and Allies),Sporophila minuta,diurna,1400 - 1500,LC,0.6676500000000001
+Passeriformes,Thraupidae (Tanagers and Allies),Sporophila morelleti,diurna,600 - 1800,LC,0.7259781621063501
+Passeriformes,Thraupidae (Tanagers and Allies),Tiaris olivaceus,diurna,800 - 1700,LC,0.6684571428571429
+Passeriformes,Thraupidae (Tanagers and Allies),Volatinia jacarina,diurna,600 - 900,LC,0.6724846153846153
+Passeriformes,Tityridae (Tityras and Allies),Pachyramphus aglaiae,diurna,550 - 1740,LC,0.6916905882352942
+Passeriformes,Tityridae (Tityras and Allies),Pachyramphus aglaiae,nocturna,530 - 530,LC,0.6559
+Passeriformes,Tityridae (Tityras and Allies),Tityra semifasciata,diurna,600 - 1300,LC,0.773529292929293
+Passeriformes,Tityridae (Tityras and Allies),Tityra semifasciata,nocturna,100 - 300,LC,0.6681
+Passeriformes,Troglodytidae (Wrens),Campylorhynchus chiapensis,diurna,600 - 1700,LC,0.6114894736842105
+Passeriformes,Troglodytidae (Wrens),Campylorhynchus zonatus,diurna,600 - 1800,LC,0.6258126984126985
+Passeriformes,Troglodytidae (Wrens),Cantorchilus modestus,diurna,600 - 1800,LC,0.7933132891323148
+Passeriformes,Troglodytidae (Wrens),Henicorhina leucophrys,diurna,1100 - 1400,LC,0.6032107142857143
+Passeriformes,Troglodytidae (Wrens),Henicorhina leucosticta,diurna,600 - 1800,LC,0.6554906976744186
+Passeriformes,Troglodytidae (Wrens),Thryophilus pleurostictus,diurna,550 - 1800,LC,0.7572498304263565
+Passeriformes,Troglodytidae (Wrens),Thryophilus pleurostictus,nocturna,500 - 530,LC,0.652725
+Passeriformes,Troglodytidae (Wrens),Thryophilus rufalbus,diurna,600 - 1800,LC,0.6229321428571428
+Passeriformes,Troglodytidae (Wrens),Troglodytes rufociliatus,diurna,1400 - 1400,LC,0.8148500000000001
+Passeriformes,Turdidae (Thrushes and Allies),Catharus aurantiirostris,diurna,600 - 1700,LC,0.7812984126984127
+Passeriformes,Turdidae (Thrushes and Allies),Catharus ustulatus,diurna,700 - 1500,LC,0.623716
+Passeriformes,Turdidae (Thrushes and Allies),Hylocichla mustelina,diurna,1100 - 1500,LC,0.6495
+Passeriformes,Turdidae (Thrushes and Allies),Myadestes occidentalis,diurna,900 - 1800,LC,0.5972500000000001
+Passeriformes,Turdidae (Thrushes and Allies),Myadestes unicolor,diurna,600 - 800,LC,0.6375666666666667
+Passeriformes,Turdidae (Thrushes and Allies),Sialia sialis,diurna,600 - 1800,LC,0.6833196078431373
+Passeriformes,Turdidae (Thrushes and Allies),Turdus assimilis,diurna,650 - 1800,LC,0.5922431818181818
+Passeriformes,Turdidae (Thrushes and Allies),Turdus grayi,diurna,550 - 1800,LC,0.6703282837127846
+Passeriformes,Turdidae (Thrushes and Allies),Turdus grayi,nocturna,500 - 530,LC,0.6578642767295598
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Attila spadiceus,diurna,600 - 1800,LC,0.616275
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Camptostoma imberbe,diurna,600 - 1700,LC,0.7254293220338983
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Contopus cooperi,diurna,600 - 1700,NT,0.6066285714285715
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Contopus pertinax,diurna,600 - 1800,LC,0.7501803043110735
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Contopus sordidulus,diurna,600 - 1800,LC,0.6897165803108808
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Contopus sordidulus,nocturna,300 - 2300,LC,0.7399
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Contopus virens,diurna,600 - 1800,LC,0.6138722222222223
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Contopus virens,nocturna,500 - 2000,LC,0.5544
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax flaviventris,diurna,600 - 1700,LC,0.740531308411215
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax minimus,diurna,600 - 1800,LC,0.7045472250423012
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax minimus,nocturna,500 - 500,LC,0.6981
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax traillii,diurna,1500 - 1700,LC,0.6449
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Legatus leucophaius,diurna,610 - 1800,LC,0.5891923076923077
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Megarynchus pitangua,diurna,550 - 1800,LC,0.8056087174721189
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Megarynchus pitangua,nocturna,500 - 530,LC,0.7513307543520309
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Mionectes oleagineus,diurna,700 - 1500,LC,0.58338
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Mionectes oleagineus,nocturna,200 - 300,LC,0.6425
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Mitrephanes phaeocercus,diurna,1100 - 1300,LC,0.5495666666666666
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiarchus crinitus,diurna,600 - 1700,LC,0.6114408450704225
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiarchus nuttingi,diurna,550 - 1640,LC,0.7035333333333333
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiarchus nuttingi,nocturna,530 - 530,LC,0.6306
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiarchus tuberculifer,diurna,600 - 1800,LC,0.6936573023671282
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiarchus tyrannulus,diurna,600 - 1620,LC,0.6461160714285714
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiodynastes luteiventris,diurna,600 - 1740,LC,0.7443739130434783
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiodynastes luteiventris,nocturna,530 - 530,LC,0.5054
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiozetetes similis,diurna,550 - 1800,LC,0.7579321738022425
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiozetetes similis,nocturna,530 - 530,LC,0.7517066666666667
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Oncostoma cinereigulare,diurna,1500 - 1500,LC,0.5694
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Pitangus sulphuratus,diurna,550 - 1800,LC,0.7364321610365572
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Pitangus sulphuratus,nocturna,500 - 530,LC,0.7547107011070111
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Rhynchocyclus brevirostris,diurna,600 - 1700,LC,0.6424061349693251
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Sayornis nigricans,diurna,900 - 1600,LC,0.6885444444444445
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Sayornis nigricans,nocturna,0 - 0,LC,0.5101
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus melancholicus,diurna,600 - 1800,LC,0.6596027027027027
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus melancholicus,nocturna,100 - 2100,LC,0.5567
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus savana,diurna,700 - 700,LC,0.6558545454545455
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus tyrannus,diurna,1000 - 1100,LC,0.6890499999999999
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus tyrannus,nocturna,1900 - 1900,LC,0.6198
+Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus verticalis,diurna,900 - 1100,LC,0.5986
+Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Cyclarhis gujanensis,diurna,550 - 1740,LC,0.6935823700908935
+Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Cyclarhis gujanensis,nocturna,530 - 530,LC,0.54365
+Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Pachysylvia decurtata,diurna,1000 - 1000,LC,0.5312
+Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo flavoviridis,diurna,600 - 1620,LC,0.6700566666666667
+Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo flavoviridis,nocturna,530 - 530,LC,0.5276
+Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo gilvus,diurna,1000 - 1000,LC,0.5484
+Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo leucophrys,diurna,1100 - 1200,LC,0.55965
+Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo olivaceus,diurna,700 - 1700,LC,0.59185
+Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Ardea alba,diurna,800 - 1200,LC,0.5965
+Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Ardea alba,nocturna,2300 - 2300,LC,0.5293
+Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Ardea herodias,diurna,600 - 1640,LC,0.5778071428571429
+Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Cochlearius cochlearius,diurna,600 - 1100,LC,0.59385
+Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Tigrisoma mexicanum,diurna,1300 - 1800,LC,0.6897599999999999
+Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Tigrisoma mexicanum,nocturna,100 - 300,LC,0.57255
+Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),Eudocimus albus,diurna,700 - 1600,LC,0.6681250000000001
+Piciformes,Picidae (Woodpeckers),Campephilus guatemalensis,diurna,1100 - 1600,LC,0.5285000000000001
+Piciformes,Picidae (Woodpeckers),Colaptes auratus,diurna,600 - 1740,LC,0.6087
+Piciformes,Picidae (Woodpeckers),Colaptes rubiginosus,diurna,800 - 1600,LC,0.70432
+Piciformes,Picidae (Woodpeckers),Melanerpes aurifrons,diurna,550 - 1800,LC,0.7914349339735894
+Piciformes,Picidae (Woodpeckers),Melanerpes aurifrons,nocturna,500 - 530,LC,0.72084
+Piciformes,Picidae (Woodpeckers),Melanerpes formicivorus,diurna,600 - 1720,LC,0.6271853658536586
+Piciformes,Picidae (Woodpeckers),Melanerpes formicivorus,nocturna,100 - 2200,LC,0.6707636363636363
+Piciformes,Picidae (Woodpeckers),Melanerpes hoffmannii,diurna,600 - 1740,LC,0.5971534482758621
+Piciformes,Picidae (Woodpeckers),Melanerpes hoffmannii,nocturna,500 - 500,LC,0.5073
+Piciformes,Ramphastidae (Toucans),Aulacorhynchus prasinus,diurna,600 - 1800,LC,0.6547870967741936
+Piciformes,Ramphastidae (Toucans),Aulacorhynchus prasinus,nocturna,0 - 2300,LC,0.6612976744186047
+Piciformes,Ramphastidae (Toucans),Pteroglossus torquatus,diurna,700 - 1700,LC,0.730775
+Piciformes,Ramphastidae (Toucans),Ramphastos sulfuratus,diurna,600 - 1800,NT,0.6560725
+Piciformes,Ramphastidae (Toucans),Ramphastos sulfuratus,nocturna,0 - 2200,NT,0.664397619047619
+Podicipediformes,Podicipedidae (Grebes),Podilymbus podiceps,diurna,1800 - 1800,LC,0.6277111111111111
+Podicipediformes,Podicipedidae (Grebes),Podilymbus podiceps,nocturna,0 - 2300,LC,0.58083
+Podicipediformes,Podicipedidae (Grebes),Tachybaptus dominicus,diurna,700 - 800,LC,0.6235333333333334
+Psittaciformes,Psittacidae (New World and African Parrots),Brotogeris jugularis,diurna,600 - 1600,LC,0.8511599999999999
+Psittaciformes,Psittacidae (New World and African Parrots),Eupsittula canicularis,diurna,600 - 1700,VU,0.738428
+Psittaciformes,Psittacidae (New World and African Parrots),Eupsittula nana,diurna,1700 - 1700,NT,0.6235
+Strigiformes,Strigidae (Owls),Bubo virginianus,diurna,600 - 1800,LC,0.6988988235294118
+Strigiformes,Strigidae (Owls),Bubo virginianus,nocturna,0 - 2300,LC,0.71558075
+Strigiformes,Strigidae (Owls),Glaucidium brasilianum,diurna,600 - 1800,LC,0.7129817404817405
+Strigiformes,Strigidae (Owls),Glaucidium brasilianum,nocturna,0 - 2300,LC,0.7337494172494173
+Suliformes,Phalacrocoracidae (Cormorants and Shags),Nannopterum brasilianum,diurna,800 - 1800,LC,0.6548857142857143
+Tinamiformes,Tinamidae (Tinamous),Crypturellus cinnamomeus,diurna,550 - 1800,LC,0.6456114379084967
+Tinamiformes,Tinamidae (Tinamous),Crypturellus cinnamomeus,nocturna,500 - 530,LC,0.6876583333333333
+Tinamiformes,Tinamidae (Tinamous),Crypturellus soui,diurna,700 - 1720,LC,0.5934916666666666
+Tinamiformes,Tinamidae (Tinamous),Crypturellus soui,nocturna,0 - 2100,LC,0.5990555555555556
+Tinamiformes,Tinamidae (Tinamous),Tinamus major,diurna,1200 - 1200,LC,0.5732
+Tinamiformes,Tinamidae (Tinamous),Tinamus major,nocturna,400 - 400,LC,0.5784
+Trogoniformes,Trogonidae (Trogons),Pharomachrus mocinno,diurna,600 - 1800,NT,0.6302928571428571
+Trogoniformes,Trogonidae (Trogons),Trogon citreolus,diurna,650 - 1240,LC,0.5570857142857143
+Trogoniformes,Trogonidae (Trogons),Trogon collaris,diurna,630 - 1700,LC,0.68573125
+Trogoniformes,Trogonidae (Trogons),Trogon elegans,diurna,550 - 1800,LC,0.7632562907735322
+Trogoniformes,Trogonidae (Trogons),Trogon elegans,nocturna,500 - 500,LC,0.6807708333333333
+Trogoniformes,Trogonidae (Trogons),Trogon massena,diurna,630 - 1740,LC,0.6690727272727273
+Trogoniformes,Trogonidae (Trogons),Trogon massena,nocturna,2200 - 2200,LC,0.6648
+Trogoniformes,Trogonidae (Trogons),Trogon melanocephalus,diurna,550 - 1740,LC,0.6381845528455284
+Trogoniformes,Trogonidae (Trogons),Trogon melanocephalus,nocturna,530 - 530,LC,0.6441
